@@ -1,0 +1,17 @@
+crop,crop_key,region,active_pretest,positive_years_2017_2021,positive_years_2017_2023,positive_months_2017_2023,total_months,production_total_2017_2023,price_coverage_when_production_positive
+Cacao,cacao,Amazonas,True,5,7,84,84,43622.518,1.0
+Cacao,cacao,Ayacucho,True,5,7,66,84,37779.0,1.0
+Cacao,cacao,Cajamarca,True,5,7,84,84,7911.351,1.0
+Cacao,cacao,Cusco,True,5,7,79,84,60236.929,1.0
+Cacao,cacao,Huánuco,True,5,7,84,84,96610.0,1.0
+Cacao,cacao,Junín,True,5,7,84,84,194829.759,1.0
+Cacao,cacao,La Libertad,True,5,7,32,84,216.712,1.0
+Cacao,cacao,Lambayeque,True,5,7,64,84,493.5,1.0
+Cacao,cacao,Loreto,True,5,7,84,84,6974.35,1.0
+Cacao,cacao,Madre de Dios,True,5,7,84,84,9372.794,1.0
+Cacao,cacao,Pasco,True,5,7,84,84,28815.099,1.0
+Cacao,cacao,Piura,True,5,7,68,84,9612.9,1.0
+Cacao,cacao,Puno,True,5,7,35,84,4887.1,1.0
+Cacao,cacao,San Martín,True,5,7,84,84,423614.115,1.0
+Cacao,cacao,Tumbes,True,5,7,84,84,6014.65,1.0
+Cacao,cacao,Ucayali,True,5,7,84,84,130226.015,1.0
