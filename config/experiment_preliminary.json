@@ -1,0 +1,14 @@
+{
+  "project": "pronostico-cacao-peru-ml",
+  "target": "produccion_mensual_toneladas",
+  "horizon": 1,
+  "history_year": 2017,
+  "train_years": [2018, 2019, 2020, 2021],
+  "validation_year": 2022,
+  "test_year": 2023,
+  "active_series_rule": "produccion positiva en al menos 4 de 5 años entre 2017 y 2021",
+  "baseline": "seasonal_naive_t_minus_12",
+  "primary_metric": "MASE",
+  "secondary_metrics": ["MAE", "RMSE", "sMAPE", "R2"],
+  "note": "Configuración de la prueba preliminar. El walk-forward final se versionará en otro experimento."
+}
